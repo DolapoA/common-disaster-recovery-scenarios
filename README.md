@@ -22,7 +22,6 @@ Contributions are always welcome!
 - Fire at data center
 - Earthquake at data center
 - Flood at data center
-- Tornado at data center
 
 ## Hardware Failure
 - Cooling system down overnight at data center
