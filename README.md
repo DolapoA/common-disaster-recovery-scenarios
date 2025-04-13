@@ -40,6 +40,7 @@ Contributions are always welcome!
 ## Insider Threats
 - Unauthorized Remote Desktop server running at some internal workstations
 - DDoS triggered by a rogue employee.
+- Rogue Agentic AI
 
 ## Security Threats
 - Compromised network
